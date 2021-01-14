@@ -67,6 +67,7 @@ Here is a list of all animals used as logos by brands/companies/apps/etc..
 |---|:-:|
 |Lion|[Brave](https://brave.com)|
 |    |[Lion](https://www.nestle-cereals.com/uk/en/brands/lion-cereal)|
+|    |[Peugeot](https://www.peugeot.fr)|
 ### M
 ---
 |Animal|Company|
